@@ -1,20 +1,24 @@
-Health Prediction Appliction
+#Health Prediction Appliction
+
  Technologies :
  Python
  Streamlit
  SQLite
- Features
+ 
+ Features:
  Create Patient Records
  View Records
  Update records
  Delete records
  Health risk Prediction
-Prediction Parameters
+ 
+Prediction Parameters:
 Glucose
 Haemoglobin
 Cholesterol
 
 Database:
 SALite
+
 Developer
 yarra Venkateswaramma
